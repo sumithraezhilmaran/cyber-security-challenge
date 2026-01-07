@@ -139,7 +139,7 @@ sudo passwd username
 ---
 
 ### Permission Issue & Fix
-![Permission denied fix](screenshots/permission-denied-fix.png)
+![Permission denied fix](permission-denied-fix.png)
 
 
 
