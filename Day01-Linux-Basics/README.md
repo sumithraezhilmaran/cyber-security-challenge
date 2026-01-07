@@ -138,9 +138,6 @@ sudo passwd username
 
 ---
 
-### Permission Issue & Fix
-![Permission denied fix](Day01-Linux-Basics
-/permission-denied-fix.png)
 
 
 
