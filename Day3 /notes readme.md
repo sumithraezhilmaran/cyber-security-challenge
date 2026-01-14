@@ -266,7 +266,3 @@ Displays all options for adding users.
 ---
 
 
-* Add **interview questions**
-* Convert this into **Markdown with badges**
-
-Just tell me 👍
